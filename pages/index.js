@@ -1,8 +1,9 @@
-import Navbar from "../components/Navbar";
+import Layout from "../components/Layout";
 const Index = () => (
-  <div>
-    <Navbar />
-    <h1>Welecome to Currency Convertor</h1>
-  </div>
+  <Layout>
+    <div>
+      <h1>Welecome to Currency Convertor</h1>
+    </div>
+  </Layout>
 );
 export default Index;

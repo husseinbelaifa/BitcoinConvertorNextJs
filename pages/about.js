@@ -1,9 +1,10 @@
-import Navbar from "../components/Navbar";
+import Layout from "../components/Layout";
 const About = () => (
-  <div>
-    <Navbar />
-    <h1>About Currency Convertor</h1>
-    <p>Appilication to View Bitcoin prices</p>
-  </div>
+  <Layout>
+    <div>
+      <h1>About Currency Convertor</h1>
+      <p>Appilication to View Bitcoin prices</p>
+    </div>
+  </Layout>
 );
 export default About;
