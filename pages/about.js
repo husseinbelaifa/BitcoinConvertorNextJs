@@ -1,5 +1,5 @@
 import Link from "next/link";
-const Index = () => (
+const About = () => (
   <div>
     <ul>
       <li>
@@ -11,7 +11,8 @@ const Index = () => (
         </Link>
       </li>
     </ul>
-    <h1>Welecome to Currency Convertor</h1>
+    <h1>About Currency Convertor</h1>
+    <p>Appilication to View Bitcoin prices</p>
   </div>
 );
-export default Index;
+export default About;
