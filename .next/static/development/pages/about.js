@@ -38,7 +38,7 @@ var Layout = function Layout(props) {
       lineNumber: 6
     },
     __self: this
-  }, "Currency Convertor"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("link", {
+  }, "BitzPrice"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("link", {
     rel: "stylesheet",
     href: "https://bootswatch.com/4/cerulean/bootstrap.min.css",
     __source: {
@@ -112,7 +112,7 @@ var Navbar = function Navbar() {
       lineNumber: 7
     },
     __self: this
-  }, "CurrencyConvvertor"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }, "BitzPrice"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "collapse navbar-collapse",
     __source: {
       fileName: _jsxFileName,
@@ -10882,7 +10882,7 @@ var About = function About() {
       lineNumber: 5
     },
     __self: this
-  }, "About Currency Convertor"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "About BitzPrice"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 6

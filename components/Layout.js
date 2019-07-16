@@ -3,7 +3,7 @@ import Head from "next/head";
 const Layout = props => (
   <div>
     <Head>
-      <title>Currency Convertor</title>
+      <title>BitzPrice</title>
       <link
         rel="stylesheet"
         href="https://bootswatch.com/4/cerulean/bootstrap.min.css"
